@@ -1,6 +1,6 @@
 # Probabilistic Generative Models
 
-This repository is dedicated to exploring the world of Probabilistic Generative Models. It includes focused studies on Variational Auto Encoders (VAEs), Restricted Boltzmann Machines (RBMs), and Real-Valued Non-Volume Preserving (Real NVP) Flow models. Each model category has its dedicated folder containing a simple practical implementation and a theoretical justification of the methodologies used. Each implementation and training is fast to train and can thus be a good starting point to explore these methods more
+This repository is dedicated to exploring the world of Probabilistic Generative Models. It includes focused studies on Variational Auto Encoders (VAEs), Restricted Boltzmann Machines (RBMs), and Real-Valued Non-Volume Preserving (Real NVP) Flow models. Each model category has its dedicated folder containing a simple but explanatory practical implementation and a theoretical justification of the methodologies used. Each implementation and training is low on compute and can thus be a good starting point to explore these methods more.
 
 ## Directory Structure
 
