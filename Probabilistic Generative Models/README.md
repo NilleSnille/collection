@@ -4,7 +4,9 @@ This repository is dedicated to exploring the world of Probabilistic Generative 
 
 ## Directory Structure
 
-- **Variational Auto Encoders**: VAE with implementations that highlight their unique approach to generating new data instances similar to the input data - here we shoq how new images can be generated according to a given underlying generating distribution.
+- **Variational Auto Encoders**
+- **[Variational Auto Encoder](Variational%Auto%20Encoder)**
+- : VAE with implementations that highlight their unique approach to generating new data instances similar to the input data - here we shoq how new images can be generated according to a given underlying generating distribution.
 - **Restricted Boltzmann Machines**: Explore RBMs through simple implementations that showcase their ability to learn a probability distribution over the input set, showecased on an example where a gaussian mixture model is not satisfactoy.
 - **Real Values Non Volume Preserving (Real NVP) Flow models**: Understand Real NVP models with examples demonstrating their capacity for detailed, complex data distribution modeling. This also showcases these models fundamental differences from VAEs and RBMs, and their much simpler implementation.
 
