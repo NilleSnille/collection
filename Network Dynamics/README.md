@@ -4,11 +4,11 @@ This repository consolidates my exploratory work and studies in the field of Net
 
 ## Overview of Contents
 
-- **Single Particle Dynamics and Network Games.pdf**: Insights into the interaction of single particle dynamics with network games, highlighting the strategic implications and outcomes of these dynamics on network behavior.
+- **[Single Particle Dynamics and Network Games](Single%20Particle%20Dynamics%20and%20Network%20Games.pdf)**: Insights into the interaction of single particle dynamics with network games, highlighting the strategic implications and outcomes of these dynamics on network behavior.
 
-- **Notes on Network Centrality Measures and their Application.pdf**: An examination of centrality measures within networks, focusing on their applications in analyzing the importance of nodes in various network structures.
+- **[Notes on the Optimum Traffic Assignment Problem and Equilibrium](Notes%20on%20the%20Optimum%20Traffic%20Assignment%20Problem%20and%20Equilibrium.pdf)**: A dive into the optimum traffic assignment problem, discussing the concept of equilibrium and its significance in traffic flow optimization across networks.
 
-- **Notes on the Optimum Traffic Assignment Problem and Equilibrium.pdf**: A deep dive into the optimum traffic assignment problem, discussing the concept of equilibrium and its significance in traffic flow optimization across networks.
+- **[Notes on Network Centrality Measures and their Application](Notes%20on%20Network%20Centrality%20Measures%20and%20their%20Application.pdf)**: An examination of centrality measures within networks, focusing on their applications in analyzing the importance of nodes in various network structures.
 
 ## Purpose
 
