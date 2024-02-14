@@ -1,6 +1,6 @@
 # Statistical Analysis and Monte Carlo Methods
 
-This repository contains a collection of documents focusing on Sequential Monte Carlo methods, Change Point Detection in statistics, and the application of simple Monte Carlo methods for power estimation in wind turbines. Each document explains the mathematical and statistical foundations of these topics, offering insights into their importance and application in real-world scenarios. Many of these methods, and a generall understanding of MC methods, is essential when working with probabilistic generative models - where exact inference is intractable.
+This repository contains a collection of documents focusing on Sequential Monte Carlo methods, Change Point Detection in statistics, and the application of different Monte Carlo methods for power estimation in wind turbines. Each document explains the mathematical and statistical foundations of these topics, offering insights into their importance and application in real-world scenarios. Many of these methods, and a generall understanding of MC methods, is essential when working with probabilistic generative models - where exact inference is intractable.
 
 ## Documents Overview
 
