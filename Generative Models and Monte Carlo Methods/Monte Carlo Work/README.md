@@ -9,5 +9,3 @@ This repository contains a collection of documents focusing on Sequential Monte 
 - **[Change Points.pdf](Change%20Points.pdf)**: An exploration of Change Point Detection, emphasizing its significance in identifying shifts in data behavior or distribution over time.
 
 - **[Simple Monte Carlo Methods for Power Estimation in Wind Turbine.pdf](Simple%20Monte%20Carlo%20Methods%20for%20Power%20Estimation%20in%20Wind%20Turbine.pdf)**: Investigates the use of simple Monte Carlo methods for estimating the power output of wind turbines, demonstrating the practical utility of Monte Carlo simulations in renewable energy research.
-
-## Purpose
