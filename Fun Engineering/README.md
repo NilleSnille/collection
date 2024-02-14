@@ -1,1 +1,1 @@
-This has repo presents some fun enginering type projects - one automatic controll system implemented on a micro controller to balance a segway, and one calculating heat stress on a iPhone camera lens system.
+This has repo presents some fun enginering type projects - one automatic control system implemented on a micro controller to balance a segway, and one calculating heat stress on a iPhone camera lens system.
