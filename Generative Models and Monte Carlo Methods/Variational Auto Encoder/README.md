@@ -1,1 +1,1 @@
-
+This small project goes through the foundations of the Variational Auto Encoder, and explains its main difficulties and how to solve them. The "Variational Auto Encoder.pdf" is of more theoretical nature - while the "Variational Auto Encoder.ipynb" is a simple by explainatory implementation of the theory.
