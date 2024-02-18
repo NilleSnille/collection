@@ -11,7 +11,7 @@ This Master's thesis explores the application of Deep Reinforcement Learning (DR
 
 ## Contributions
 
-This thesis represents the first known attempt to apply a deep reinforcement learning agent for data augmentation in object detection, highlighting a promising avenue for further research in this area.
+This thesis represents the first known attempt to apply a deep reinforcement learning agent for data augmentation in object detection, highlighting a promising avenue for further research in this area. Unfortunately the code for the system cannot be made open source, as it was developed in cooperation with Axis Communications.
 
 ## Keywords
 
