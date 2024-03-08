@@ -1,6 +1,6 @@
 # collection
 
-This repository showscases some of my previous work and projects, sorted into their respective fields - including my masters thesis on how deep reinforcement learning can be used to optimize datasets when training object detection models. 
+This repository showscases some of my previous work and projects, sorted into their respective fields - including my masters [thesis](https://github.com/NilleSnille/collection/tree/main/Thesis%20-%20Data%20Augmentation%20for%20Object%20Detection%20using%20Deep%20Reinforcement%20Learning) on how deep reinforcement learning can be used to optimize datasets when training object detection models. 
 
 # Current Reasearch
 
