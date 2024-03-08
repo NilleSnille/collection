@@ -12,6 +12,6 @@ For information about the Room Impulse Response Interpolation method, see the be
 
 [Room Impulse Response Interpolation Using a Sparse Spatio-Temporal Representation of the Sound Field](https://ieeexplore.ieee.org/document/7987742)
 
-The idea is to unfold the ZeroFPR algorithm into a neural network, utilizing both GPU paralellization and learnability to improve performence and accuracy.
+The idea is to unfold the ZeroFPR algorithm into a neural network, utilizing both GPU paralellization and learnability to improve performance and accuracy.
 
 [Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms](https://doi.org/10.48550/arXiv.1606.06256).
