@@ -2,6 +2,8 @@
 
 This repository showscases some of my previous work and projects, sorted into their respective fields - including my masters [thesis](https://github.com/NilleSnille/collection/tree/main/Thesis%20-%20Data%20Augmentation%20for%20Object%20Detection%20using%20Deep%20Reinforcement%20Learning) on how deep reinforcement learning can be used to optimize datasets when training object detection models. 
 
+The thesis is published [here](http://lup.lub.lu.se/student-papers/record/9148803).
+
 # Current Reasearch
 
 Currently doing reasearch at Lund University on the use and applications of unfolding/unrolling algorithms in signal processing, specifically to solve the Room Impulse Response Interpolation computation efficiently. More information about the unroling method - a way to solve iterative optimization algorithms with explainable deep neural networks - can be found in this great paper. 
